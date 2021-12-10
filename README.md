@@ -2,6 +2,8 @@
 ### About Me
 I am a 1st year Computer Science student of SRM Institute of Science and Technology. I am a coding enthusiast who likes to take up challenges. I am finding my way through the industry and my passion to learn new concepts is what drives me forward.
 ### Connect
+[![instagram icon](./assets/icons/instaIcon.png)(https://www.instagram.com/zaid.js/)]
+[![linkedin icon](./assets/icons/linkedinIcon.png)(https://www.linkedin.com/in/mohd-zaid-17713221a/)]
 <!--
 **zaidtab123/zaidtab123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
