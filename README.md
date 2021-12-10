@@ -1,5 +1,7 @@
 ![Zaid's GitHub Banner](./assets/GitHubHeader.png)
-### 🌱 I’m currently learning
+### About Me
+I am a 1st year Computer Science student of SRM Institute of Science and Technology. I am a coding enthusiast who likes to take up challenges. I am finding my way through the industry and my passion to learn new concepts is what drives me forward.
+### Connect
 <!--
 **zaidtab123/zaidtab123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
