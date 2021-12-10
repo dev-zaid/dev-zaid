@@ -1,3 +1,4 @@
+[![Zaid's GitHub Banner](./assets/GitHubHeader.png)]
 ### Hi there 👋
 
 <!--
