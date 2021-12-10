@@ -3,6 +3,7 @@
 I am a 1st year Computer Science student of SRM Institute of Science and Technology. I am a coding enthusiast who likes to take up challenges. I am finding my way through the industry and my passion to learn new concepts is what drives me forward.
 <h3>Connect</h3>
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.instagram.com/zaid.js/" target="_blank">
     <img
       src="./assets/icons/instaIcon.png"
@@ -10,7 +11,7 @@ I am a 1st year Computer Science student of SRM Institute of Science and Technol
       width="50"
       height="50"/>
     <a href="https://www.linkedin.com/in/mohd-zaid-17713221a/" target="_blank">
-    &nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img
       src="./assets/icons/linkedinIcon.png"
       alt="instagram"
