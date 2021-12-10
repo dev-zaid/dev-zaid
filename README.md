@@ -1,4 +1,4 @@
-![Zaid's GitHub Banner](./assets/GitHubHeader.png)
+[![Zaid's GitHub Banner](./assets/GitHubHeader.png)](#)
 ### About Me
 I am a 1st year Computer Science student of SRM Institute of Science and Technology. I am a coding enthusiast who likes to take up challenges. I am finding my way through the industry and my passion to learn new concepts is what drives me forward.
 
