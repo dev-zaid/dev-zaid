@@ -1,6 +1,5 @@
 ![Zaid's GitHub Banner](./assets/GitHubHeader.png)
-### Hi there 👋
-
+### 🌱 I’m currently learning
 <!--
 **zaidtab123/zaidtab123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
