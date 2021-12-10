@@ -10,6 +10,7 @@ I am a 1st year Computer Science student of SRM Institute of Science and Technol
       width="50"
       height="50"/>
     <a href="https://www.linkedin.com/in/mohd-zaid-17713221a/" target="_blank">
+    &nbsp;&nbsp;&nbsp;&nbsp;
     <img
       src="./assets/icons/linkedinIcon.png"
       alt="instagram"
