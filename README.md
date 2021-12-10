@@ -27,6 +27,25 @@ I am a 1st year Computer Science student of SRM Institute of Science and Technol
       width="50"
       height="50"/>
       &nbsp;&nbsp;&nbsp;
+<div>
+<img
+      src="./assets/icons/pythonIcon.png"
+      alt="python"
+      width="50"
+      height="50"/>
+      &nbsp;&nbsp;&nbsp;
+<img
+      src="./assets/icons/javaIcon.png"
+      alt="java"
+      width="50"
+      height="50"/>
+      &nbsp;&nbsp;&nbsp;
+<img
+      src="./assets/icons/expressIcon.png"
+      alt="express"
+      width="50"
+      height="50"/>
+      &nbsp;&nbsp;&nbsp;
 
 <h3>Connect</h3>
 </a>
