@@ -43,7 +43,7 @@ I am a 1st year Computer Science student of SRM Institute of Science and Technol
 <img
       src="./assets/icons/expressIcon.png"
       alt="express"
-      width="80"/>
+      width="120"/>
       &nbsp;&nbsp;&nbsp;
 <img
       src="./assets/icons/mongoIcon.png"
