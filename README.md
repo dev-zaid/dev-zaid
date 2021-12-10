@@ -19,8 +19,7 @@ I am a 1st year Computer Science student of SRM Institute of Science and Technol
 <img
       src="./assets/icons/nodeIcon.png"
       alt="node"
-      width="50"
-      height="50"/>
+      width="70"/>
       &nbsp;&nbsp;&nbsp;
 <img
       src="./assets/icons/gitIcon.png"
