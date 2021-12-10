@@ -29,6 +29,11 @@ I am a 1st year Computer Science student of SRM Institute of Science and Technol
       &nbsp;&nbsp;&nbsp;
 <div>
 <img
+      src="./assets/icons/androidIcon.png"
+      alt="android"
+      width="60"/>
+      &nbsp;&nbsp;&nbsp;
+<img
       src="./assets/icons/pythonIcon.png"
       alt="python"
       width="50"
@@ -51,7 +56,10 @@ I am a 1st year Computer Science student of SRM Institute of Science and Technol
       width="120"/>
       &nbsp;&nbsp;&nbsp;
 
-<h3>Connect</h3>
+### 🌱 Currently Learning
+- Backend Development using JS over Node/Express.
+
+<h3>📫 Connect</h3>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.instagram.com/zaid.js/" target="_blank">
