@@ -4,6 +4,7 @@ I am a 1st year Computer Science student of SRM Institute of Science and Technol
 
 ### Languages and Skills
 &nbsp;&nbsp;&nbsp;
+<a href="#">
 <img
       src="./assets/icons/htmlIcon.png"
       alt="html"
@@ -55,6 +56,7 @@ I am a 1st year Computer Science student of SRM Institute of Science and Technol
       alt="mongo"
       width="120"/>
       &nbsp;&nbsp;&nbsp;
+</a>
 
 ### 🌱 Currently Learning
 - Backend Development using JS over Node/Express.
