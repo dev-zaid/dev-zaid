@@ -31,7 +31,7 @@ I am a 1st year Computer Science student of SRM Institute of Science and Technol
 <img
       src="./assets/icons/androidIcon.png"
       alt="android"
-      width="60"/>
+      height="50"/>
       &nbsp;&nbsp;&nbsp;
 <img
       src="./assets/icons/pythonIcon.png"
@@ -42,8 +42,8 @@ I am a 1st year Computer Science student of SRM Institute of Science and Technol
 <img
       src="./assets/icons/javaIcon.png"
       alt="java"
-      width="50"
-      height="50"/>
+      width="60"
+      height="60"/>
       &nbsp;&nbsp;&nbsp;
 <img
       src="./assets/icons/expressIcon.png"
