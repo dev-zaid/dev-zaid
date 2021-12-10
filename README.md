@@ -3,11 +3,31 @@
 I am a 1st year Computer Science student of SRM Institute of Science and Technology. I am a coding enthusiast who likes to take up challenges. I am finding my way through the industry and my passion to learn new concepts is what drives me forward.
 
 ### Languages and Skills
+&nbsp;&nbsp;&nbsp;
+<img
+      src="./assets/icons/htmlIcon.png"
+      alt="html"
+      width="50"
+      height="50"/>
+      &nbsp;&nbsp;&nbsp;
 <img
       src="./assets/icons/cssIcon.png"
       alt="css"
       width="50"
       height="50"/>
+      &nbsp;&nbsp;&nbsp;
+<img
+      src="./assets/icons/nodeIcon.png"
+      alt="node"
+      width="50"
+      height="50"/>
+      &nbsp;&nbsp;&nbsp;
+<img
+      src="./assets/icons/gitIcon.png"
+      alt="git"
+      width="50"
+      height="50"/>
+      &nbsp;&nbsp;&nbsp;
 
 <h3>Connect</h3>
 </a>
