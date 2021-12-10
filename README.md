@@ -48,8 +48,7 @@ I am a 1st year Computer Science student of SRM Institute of Science and Technol
 <img
       src="./assets/icons/mongoIcon.png"
       alt="mongo"
-      width="50"
-      height="50"/>
+      width="120"/>
       &nbsp;&nbsp;&nbsp;
 
 <h3>Connect</h3>
