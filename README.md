@@ -29,7 +29,7 @@ I am a 1st year Computer Science student of SRM Institute of Science and Technol
       height="50"/>
       &nbsp;&nbsp;&nbsp;
 <img
-      src="./assets/icons/nextIcon.png"
+      src="./assets/icons/nextLogo.png"
       alt="nextJS"
       width="120"/>
       &nbsp;&nbsp;&nbsp;
