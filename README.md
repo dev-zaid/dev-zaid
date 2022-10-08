@@ -28,6 +28,11 @@ I am a 1st year Computer Science student of SRM Institute of Science and Technol
       width="50"
       height="50"/>
       &nbsp;&nbsp;&nbsp;
+<img
+      src="./assets/icons/nextIcon.png"
+      alt="nextJS"
+      width="120"/>
+      &nbsp;&nbsp;&nbsp;
 <div>
 <img
       src="./assets/icons/androidIcon.png"
