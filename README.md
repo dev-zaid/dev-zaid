@@ -1,6 +1,6 @@
 [![Zaid's GitHub Banner](./assets/banner.png)](#)
 ### About Me
-I am a 1st year Computer Science student of SRM Institute of Science and Technology. I am a coding enthusiast who likes to take up challenges. I am finding my way through the industry and my passion to learn new concepts is what drives me forward.
+I am a student of SRM Institute of Science and Technology pursuing B.Tech in CSE(II year). I am a coding enthusiast who likes to take up challenges. I am finding my way through the industry and my passion to learn new concepts is what drives me forward.
 
 ### Languages and Skills
 &nbsp;&nbsp;&nbsp;
