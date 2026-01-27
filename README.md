@@ -1,90 +1,68 @@
 [![Zaid's GitHub Banner](./assets/banner.png)](#)
-### About Me
-I’m a Blockchain Developer and Software Engineer working on Layer-1 blockchain infrastructure and distributed systems.
+<!-- Save as README.md (GitHub renders most HTML in Markdown) -->
 
-Currently, I lead protocol development at DEnergy Networks, building an Evmos/Cosmos-SDK–based L1 with a native dual-staking consensus (NFT + token staking), validator infrastructure, and on-chain energy tracking for 100+ nodes.
+<p align="left">
+  Software Engineer focused on <b>distributed systems</b>, <b>backend infrastructure</b>, and <b>blockchain protocols</b>.
+</p>
 
-I have 2+ years of experience building high-throughput backend systems and blockchain data pipelines, working with Go, TypeScript, Cosmos SDK, PostgreSQL, Redis, Docker, and AWS. I enjoy solving low-level protocol problems, optimizing systems at scale, and building infrastructure that runs in production.
+<p align="left">
+  Currently working on <b>Layer-1 blockchain infrastructure</b> and performance-critical systems in production.
+</p>
 
-### Languages and Skills
-&nbsp;&nbsp;&nbsp;
-<a href="#">
-<img
-      src="./assets/icons/htmlIcon.png"
-      alt="html"
-      width="50"
-      height="50"/>
-      &nbsp;&nbsp;&nbsp;
-<img
-      src="./assets/icons/cssIcon.png"
-      alt="css"
-      width="50"
-      height="50"/>
-      &nbsp;&nbsp;&nbsp;
-<img
-      src="./assets/icons/nodeIcon.png"
-      alt="node"
-      width="70"/>
-      &nbsp;&nbsp;&nbsp;
-<img
-      src="./assets/icons/gitIcon.png"
-      alt="git"
-      width="50"
-      height="50"/>
-      &nbsp;&nbsp;&nbsp;
-<img
-      src="./assets/icons/nextLogo.png"
-      alt="nextJS"
-      width="120"/>
-      &nbsp;&nbsp;&nbsp;
+<h2 align="left">Now</h2>
+<ul>
+  <li>Building L1 protocol components (Cosmos / Evmos)</li>
+  <li>Working on validator infrastructure, consensus mechanics, and chain services</li>
+  <li>Optimizing throughput, latency, and reliability for high-scale workloads</li>
+</ul>
+
+<h2 align="left">Focus</h2>
 <div>
-<img
-      src="./assets/icons/androidIcon.png"
-      alt="android"
-      height="50"/>
-      &nbsp;&nbsp;&nbsp;
-<img
-      src="./assets/icons/pythonIcon.png"
-      alt="python"
-      width="50"
-      height="50"/>
-      &nbsp;&nbsp;&nbsp;
-<img
-      src="./assets/icons/javaIcon.png"
-      alt="java"
-      width="60"
-      height="60"/>
-      &nbsp;&nbsp;&nbsp;
-<img
-      src="./assets/icons/expressIcon.png"
-      alt="express"
-      width="120"/>
-      &nbsp;&nbsp;&nbsp;
-<img
-      src="./assets/icons/mongoIcon.png"
-      alt="mongo"
-      width="120"/>
-      &nbsp;&nbsp;&nbsp;
-</a>
+  <code>Distributed Systems</code>
+  <code>Backend Engineering</code>
+  <code>Blockchain Infrastructure</code>
+  <code>System Design</code>
+  <code>Performance</code>
+  <code>Reliability</code>
+</div>
 
-<h3>📫 Connect</h3>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.instagram.com/zaid.js/" target="_blank">
-    <img
-      src="./assets/icons/instaIcon.png"
-      alt="instagram"
-      width="50"
-      height="50"/>
-    <a href="https://www.linkedin.com/in/mohd-zaid-17713221a/" target="_blank">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img
-      src="./assets/icons/linkedinIcon.png"
-      alt="instagram"
-      width="50"
-      height="50"
-    />
-</a>
+<br />
+
+<h2 align="left">Tech</h2>
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td>Go · TypeScript · Solidity</td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>Cosmos SDK · Node.js · PostgreSQL · Redis</td>
+  </tr>
+  <tr>
+    <td><b>Infra</b></td>
+    <td>Docker · AWS · CI/CD</td>
+  </tr>
+</table>
+
+<h2 align="left">Highlights</h2>
+<ul>
+  <li>Built systems processing <b>10M+ transactions/day</b></li>
+  <li>Designed and optimized APIs for low-latency, high-concurrency workloads</li>
+  <li>Shipped blockchain indexers and data pipelines for real-time on-chain processing</li>
+</ul>
+
+<hr />
+
+<h2 align="left">Links</h2>
+<ul>
+  <li><b>LinkedIn:</b> <a href="https://linkedin.com/in/dev-zaid">linkedin.com/in/dev-zaid</a></li>
+  <li><b>GitHub:</b> <a href="https://github.com/dev-zaid">github.com/dev-zaid</a></li>
+</ul>
+
+<p align="left">
+  <sub>Open to: Software Engineer · Backend Engineer · Distributed Systems · Blockchain Infrastructure</sub>
+</p>
+
 <!--
 **zaidtab123/zaidtab123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
