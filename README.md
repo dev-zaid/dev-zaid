@@ -1,6 +1,10 @@
 [![Zaid's GitHub Banner](./assets/banner.png)](#)
 ### About Me
-I am a student of SRM Institute of Science and Technology pursuing B.Tech in CSE(II year). I am a coding enthusiast who likes to take up challenges. I am finding my way through the industry and my passion to learn new concepts is what drives me forward.
+I’m a Blockchain Developer and Software Engineer working on Layer-1 blockchain infrastructure and distributed systems.
+
+Currently, I lead protocol development at DEnergy Networks, building an Evmos/Cosmos-SDK–based L1 with a native dual-staking consensus (NFT + token staking), validator infrastructure, and on-chain energy tracking for 100+ nodes.
+
+I have 2+ years of experience building high-throughput backend systems and blockchain data pipelines, working with Go, TypeScript, Cosmos SDK, PostgreSQL, Redis, Docker, and AWS. I enjoy solving low-level protocol problems, optimizing systems at scale, and building infrastructure that runs in production.
 
 ### Languages and Skills
 &nbsp;&nbsp;&nbsp;
