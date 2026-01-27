@@ -67,9 +67,6 @@ I have 2+ years of experience building high-throughput backend systems and block
       &nbsp;&nbsp;&nbsp;
 </a>
 
-### 🌱 Currently Learning
-- Backend Development using JS over Node/Express.
-
 <h3>📫 Connect</h3>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
