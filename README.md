@@ -4,15 +4,15 @@ I'm Zaid, a backend engineer working in Go, TypeScript and Python. Based in Bang
 
 ### Now
 
-Doing agentic commerce research at **General Machines**.
+Doing agentic commerce research at **[General Machines](https://generalmachines.ai)**.
 
 - Built shop-harness in Python, an agent on a local 4B model (Ollama) that shops live Shopify stores through the Shopify UCP MCP, with 300+ traced runs across 7 stores
 - Built checkout-sandbox, a Python service that charges Shopify carts in Stripe test mode using shared payment tokens capped at the approved total
 
 ### Before
 
-- **DEnergy** (Jan 2025 - Sept 2026): built Go services for an Evmos-based L1, shipped to mainnet across 50+ nodes, and fixed a mainnet halt in our Cosmos SDK fork
-- **Mable** (Aug 2023 - July 2024, intern): Postgres partitioning that cut query latency from ~2s to ~500ms, RBAC with Casbin, Redis-backed APIs
+- **[DEnergy](https://d.energy)** (Jan 2025 - Sept 2026): built Go services for an Evmos-based L1, shipped to mainnet across 50+ nodes, and fixed a mainnet halt in our Cosmos SDK fork
+- **[Mable](https://mable.ai)** (Aug 2023 - July 2024, intern): Postgres partitioning that cut query latency from ~2s to ~500ms, RBAC with Casbin, Redis-backed APIs
 
 ### Some things I've built
 
