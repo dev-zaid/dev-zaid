@@ -1,4 +1,4 @@
-[![Zaid's GitHub Banner](./assets/banner-1.png)](#)
+[![Zaid's GitHub Banner](./assets/banner-2.png)](#)
 
 I'm Zaid, a backend engineer working mostly in Go and TypeScript. I build blockchain protocols and the backend services around them.
 
