@@ -1,79 +1,34 @@
-[![Zaid's GitHub Banner](./assets/banner.png)](#)
-<!-- Save as README.md (GitHub renders most HTML in Markdown) -->
+[![Zaid's GitHub Banner](./assets/banner-1.png)](#)
 
-<p align="left">
-  Software Engineer focused on <b>distributed systems</b>, <b>backend infrastructure</b>, and <b>blockchain protocols</b>.
-</p>
+I'm Zaid, a backend engineer working mostly in Go and TypeScript. I build blockchain protocols and the backend services around them.
 
-<p align="left">
-  Currently working on <b>Layer-1 blockchain infrastructure</b> and performance-critical systems in production.
-</p>
+Currently a Software Development Engineer at **DEnergy**, building and running a Cosmos EVM based L1 in production across 100+ nodes.
 
-<h2 align="left">Now</h2>
-<ul>
-  <li>Building L1 protocol components (Cosmos / Evmos)</li>
-  <li>Working on validator infrastructure, consensus mechanics, and chain services</li>
-  <li>Optimizing throughput, latency, and reliability for high-scale workloads</li>
-</ul>
+### What I work on
 
-<h2 align="left">Focus</h2>
-<div>
-  <code>Distributed Systems</code>
-  <code>Backend Engineering</code>
-  <code>Blockchain Infrastructure</code>
-  <code>System Design</code>
-  <code>Performance</code>
-  <code>Reliability</code>
-</div>
+- Protocol-level features for the chain, including dual staking and custom EVM precompiles
+- Go services across the network's nodes, talking over gRPC
+- Release tooling: Bash + GitHub Actions for builds, and Claude skills that automate feature testing and releases
 
-<br />
+### Before this
 
-<h2 align="left">Tech</h2>
-<table>
-  <tr>
-    <td><b>Languages</b></td>
-    <td>Go · TypeScript · Solidity</td>
-  </tr>
-  <tr>
-    <td><b>Backend</b></td>
-    <td>Cosmos SDK · Node.js · PostgreSQL · Redis</td>
-  </tr>
-  <tr>
-    <td><b>Infra</b></td>
-    <td>Docker · AWS · CI/CD</td>
-  </tr>
-</table>
+- **Mable** (Germany, remote intern): Postgres partitioning that took queries from ~2s to ~500ms, RBAC with Casbin, Redis-backed APIs
 
-<h2 align="left">Highlights</h2>
-<ul>
-  <li>Built systems processing <b>10M+ transactions/day</b></li>
-  <li>Designed and optimized APIs for low-latency, high-concurrency workloads</li>
-  <li>Shipped blockchain indexers and data pipelines for real-time on-chain processing</li>
-</ul>
+### Some things I've built
 
-<hr />
+- [rpc-proxy](https://github.com/dev-zaid/rpc-proxy) - JSON-RPC proxy that serves `trace_block` from Blockscout's Postgres and forwards everything else to an Evmos node
+- [Pyrex](https://github.com/dev-zaid/Pyrex-ETHGlobal25) - cross-border payments over PYUSD, with an orderbook and a routing agent that splits orders across sellers (ETHGlobal)
+- [token-diet](https://github.com/dev-zaid/token-diet) - cutting token usage for shopping agents without changing what they pick. A learning project in AI engineering
+- **Trench** - wallet and token data platform, streaming 10M+ live records with Redis Pub/Sub and Postgres
 
-<h2 align="left">Links</h2>
-<ul>
-  <li><b>LinkedIn:</b> <a href="https://linkedin.com/in/dev-zaid">linkedin.com/in/dev-zaid</a></li>
-  <li><b>GitHub:</b> <a href="https://github.com/dev-zaid">github.com/dev-zaid</a></li>
-</ul>
+### Stack
 
-<p align="left">
-  <sub>Open to: Software Engineer · Backend Engineer · Distributed Systems · Blockchain Infrastructure</sub>
-</p>
+- **Languages:** Go, TypeScript, Solidity, Python
+- **Backend:** Cosmos SDK, Node.js, gRPC, PostgreSQL, Redis
+- **Infra:** Docker, AWS, GitHub Actions, Linux
 
-<!--
-**zaidtab123/zaidtab123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Reach me
 
-Here are some ideas to get you started:
+[LinkedIn](https://linkedin.com/in/dev-zaid) · [Email](mailto:mohdzaid2904@gmail.com) · [LeetCode](https://leetcode.com/u/dev-zaid)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<sub>Open to backend and blockchain infrastructure roles.</sub>
